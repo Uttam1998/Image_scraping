@@ -3,5 +3,5 @@ Using Python and Beautiful Soupe this code is able to download images from bewak
 
 What Beautiful Soup does is parses the webpage in its html format so we can easily access any of the html tags, and even refine it with different classes. It's really easy to use, just check the code and you will get the gist of how it works.
 
-#How to use
+# How to use
 Change the Image var as required for different catogories
