@@ -15,7 +15,7 @@ headers = {
 
 
 
-Image = 'men+tshirt' # the required image
+Image = 'women+dress' # the required image
 url = 'https://www.bewakoof.com/search/' + Image # the Bewakoof api for searching a required image
 x = 1 # set the var x to 0
 filePath = 'images/' + Image # file path for the directory
